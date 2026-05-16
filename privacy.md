@@ -1,3 +1,7 @@
+---
+title: Privacy Policy
+---
+
 # Privacy Policy for Mixable
 
 *Last updated: May 16, 2026*
