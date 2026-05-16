@@ -1,3 +1,7 @@
+---
+title: Terms of Use
+---
+
 # Terms of Use for Mixable
 
 *Last updated: May 16, 2026*
