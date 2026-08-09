@@ -25,4 +25,4 @@ Mixable and its content are owned by Salvatore Barone. Brand and product names r
 Mixing recipes are calculated estimates. We do not guarantee exact color matches. Mixable is provided "as is" without warranties of any kind.
 
 ## Contact
-For questions, contact salvabar97@gmail.com.
+For questions, contact mixableapp@gmail.com.
