@@ -31,4 +31,4 @@ Mixable does not knowingly collect any data from children.
 We may update this policy from time to time. Changes will be reflected in the "Last updated" date above.
 
 ## Contact
-If you have questions about this policy, contact us at salvabar97@gmail.com.
+If you have questions about this policy, contact us at mixableapp@gmail.com.
