@@ -4,19 +4,19 @@ title: Privacy Policy
 
 # Privacy Policy for Mixable
 
-*Last updated: May 16, 2026*
+*Last updated: August 14, 2026*
 
 ## Overview
-Mixable is a paint color mixing guide. We respect your privacy and are committed to protecting it.
+Mixable is a paint color mixing guide, available on iOS and Android. We respect your privacy and are committed to protecting it.
 
 ## Data We Collect
-Mixable does not collect, store, or transmit any personal data. All app data (your palette, saved recipes, and preferences) is stored locally on your device using Apple's standard storage.
+Mixable does not collect, store, or transmit any personal data. All app data (your palette, saved recipes, and preferences) is stored locally on your device.
 
 ## Camera and Photo Access
 Mixable requests access to your camera and photo library solely to sample colors for mixing recipes. Images are processed on-device and are never uploaded, stored, or shared.
 
 ## Purchases
-Subscriptions are processed entirely by Apple through the App Store. We do not have access to your payment information.
+Subscriptions are processed entirely by Apple through the App Store (iOS) or Google Play Billing (Android). We do not have access to your payment information.
 
 ## Third-Party Services
 Mixable does not use any third-party analytics, advertising, or tracking services.
